@@ -1,0 +1,78 @@
+Key,English,Russian,Turkish,Spanish
+Hud.PauseMenu.Title,Pause,Пауза,Duraklat,Pausa
+Hud.Continue,Continue,Продолжить,Sürdürmek,Continuar
+Hud.Reload,Reload,Заново,Tekrar yükle,Recargar
+Hud.MainMenu,Main menu,Главное меню,Ana menü,Menú principal
+Hud.PauseButton,Pause,Пауза,Duraklat,Pausa
+Hud.Revive,Revive,Оживить,Canlandırmak,Reanimar
+Hud.Victory,Victory,Победа,Zafer,Victoria
+Back,Back,Назад,Geri,Atrás
+Inventory.Create,Create,Создать,Yaratmak,Crear
+MainMenu.Title,Noob becomes Pro!,Нуб становится Про!,Noob Pro oluyor!,Noob se convierte en profesional!
+Grass,Forgotten fields,Забытые поля,Unutulan alanlar,Campos olvidados
+Pinewood,Pinewood forest,Еловый лес,Cam ormanı,Bosque de pinos
+Snow,The Taiga,Тайга,Tayga,La taiga
+Desert,White desert,Белые пустыни,Beyaz çöl,Desierto blanco
+Darkwood,The Dark Forest,Темный лес,Karanlık Orman,El bosque oscuro
+Hell,Hell,Ад,Cehennem,Infierno
+HardGrass,Harmfull Hills,Опасные холмы,Zararlı Tepeler,Colinas dañinas
+End ,Upper World,Высший мир,Yukarı Dünya,Mundo superior
+Loading,Loading...,Загрузка...,Yükleniyor...,Cargando...
+Guide.Title,How to become a PRO,Как стать ПРО,Nasıl PRO olunur,Cómo convertirse en PRO
+Guide.Greetings,"Hello friend! If you're reading this, it means you want to become a real PRO. This is a very difficult path, but those who overcome it will never regret it!
+Let's start with the basics!","Привет друг!  Если ты читаешь это значит, ты хочешь стать настоящим ПРО.  Это очень тяжелый путь, но преодолевший его никогда не пожалеет об этом !
+Давай начнем с основ!","Merhaba dostum! Bunu okuyorsan, gerçek bir PRO olmak istiyorsun demektir. Bu çok zor bir yol ama üstesinden gelenler asla pişman olmayacaklar!
+Temel bilgilerle başlayalım!","Hola amigo! Si estás leyendo esto, significa que quieres convertirte en un verdadero PRO. Este es un camino muy difícil, pero aquellos que lo superan nunca se arrepentirán!
+Empecemos con lo básico!"
+Guide.Control,"The first thing you should know is that a real PRO should move like a PRO.
+
+To do this, use swipes or A and D.","Первое, что ты должен знать настоящий ПРО должен двигаться как ПРО.
+
+Для этого используй свайпы или A и D.","Bilmeniz gereken ilk şey, gerçek bir PRO'nun PRO gibi hareket etmesi gerektiğidir.
+
+Bunu yapmak için kaydırma hareketlerini veya A ve D'yi kullanın.","Lo primero que debes saber es que un verdadero PRO debe moverse como un PRO.
+
+Para hacer esto, use deslizamientos o A y D."
+Guide.Control2,"The second equally important skill is about using the right tool at the time. 
+
+Click on the tool icon to select it!","Второй не менее важный навык ПРО это во время использовать нужный инструмент.  
+
+Нажимай на иконку инсрумента для его выбора!","Eşit derecede önemli olan ikinci beceri, o anda doğru aracı kullanmaktır.
+
+Seçmek için araç simgesine tıklayın!","La segunda habilidad igualmente importante es usar la herramienta correcta en ese momento.
+
+Haga clic en el icono de la herramienta para seleccionarlo!"
+Guide.GetResources,"Can't break any block?
+Collect resources and create new tools to become more experienced!","Не можешь разбить какой либо блок?
+Собирай ресурсы и создавай новые инструменты, чтобы стать опытнее!","Herhangi bir bloğu kıramaz mısın?
+Kaynakları toplayın ve daha deneyimli olmak için yeni araçlar oluşturun!","No puedes romper ningún bloque?
+Reúne recursos y crea nuevas herramientas para tener más experiencia!"
+Guide.Ending,"As I have already said, the path of becoming a PRO is very difficult, you will have to pass some tests more than once in order to accumulate resources to open the next one.
+
+Be careful, perhaps the blocks that are already familiar to you can be broken by a more powerful tool than you have now, carefully read the hints during the next failure!
+
+I wish you success !","Как я уже говорил, путь становления ПРО очень тяжелый, некоторые испытания тебе придется проходить не один раз, чтобы накопить ресурсы для открытия следующего.
+
+Будь внимателен, возможно, уже привычные для тебя блоки, могут разбиваться более мощным инструментом, чем сейчас у тебя, внимательно читай подсказки во время очередной неудачи!
+
+Желаю тебе успехов !","Daha önce de söylediğim gibi, PRO olma yolu çok zor, bir sonrakini açmak için kaynak biriktirmek için bazı testleri birden fazla geçmek zorunda kalacaksın.
+
+Dikkatli olun, belki de zaten aşina olduğunuz bloklar şu anda sahip olduğunuzdan daha güçlü bir araçla kırılabilir, bir sonraki başarısızlıkta ipuçlarını dikkatlice okuyun!
+
+Sana başarılar diliyorum !","Como ya he dicho, el camino para convertirse en PRO es muy difícil, tendrás que pasar algunas pruebas más de una vez para poder acumular recursos para abrir la siguiente.
+
+Tenga cuidado, tal vez los bloques que ya le son familiares puedan romperse con una herramienta más poderosa que la que tiene ahora, ¡lea atentamente las sugerencias durante la próxima falla!
+
+Te deseo éxito !"
+Next,Next,Далее,Sonraki,Próximo
+Previous,Previous,Назад,Öncesi,Anterior
+Email,"For all questions and suggestions, write here
+
+nikotinstudio@gmail.com","По всем вопросам и предложениям писать сюда
+
+nikotinstudio@gmail.com","Tüm sorularınız ve önerileriniz için buraya yazınız
+
+nikotinstudio@gmail.com","Para todas las preguntas y sugerencias escribir aquí
+
+nikotinstudio@gmail.com"
+AnotherGames,Our other games,Другие наши игры ,Diğer oyunlarımız,Nuestros otros juegos
